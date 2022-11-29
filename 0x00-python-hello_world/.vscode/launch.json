@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wassimbenromdhane/Documents/GitHub/alx-higher_level_programming/0x00-python-hello_world",
+      "program": "/Users/wassimbenromdhane/Documents/GitHub/alx-higher_level_programming/0x00-python-hello_world/build/Debug/outDebug"
+    }
+  ]
+}
